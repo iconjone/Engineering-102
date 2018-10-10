@@ -1,0 +1,13 @@
+The variable names
+
+
+names (String) List -> This array has all of the names
+Birthdays (Birthday(List - [month, day, year])) List -> This array has all of the birthdays at the same index of the names
+
+
+Instructions:
+Enter in each name and birthday seperated by commas and birthday seperated by slashes (mm/dd/yyyy)
+
+
+Output by Name|mm/dd/yyyy Calculate the biggest name and use that to calculate the offset needed to make all the names centered
+
