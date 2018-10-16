@@ -8,8 +8,8 @@
 # Date:		    9 18 2018
 name = input("Enter in a name")
 profession = input("Enter in a profession")
-number = input("Enter in a number from 1-100")
-inumber = int(number) + 99 #dalmations
+playerNumber = input("Enter in a number from 1-100")
+inumber = int(playerNumber) + 99 #dalmations
 verb = input("Enter in a verb ending in \"-ed\"")
 adjective = input("Enter in an adjective")
 city = input("Enter in a city")

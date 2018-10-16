@@ -1,11 +1,11 @@
 # String x
 x = 'Hello'
 x = "this is jonathan\"s "
-number = 4545
-x = str(number)
-number = int(x)
+playerNumber = 4545
+x = str(playerNumber)
+playerNumber = int(x)
 print(x)
-print(number)
+print(playerNumber)
 x = 4
 y = 5
 print("x is equal to: " + str(x))

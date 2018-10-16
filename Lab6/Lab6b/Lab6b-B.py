@@ -5,17 +5,17 @@
 # Name: 		Jonathan Samuel
 # Section:		510
 # Assignment:	Lab6b
-number = 0
+playerNumber = 0
 
 
 def addNumb():
-    global number  # Needed to modify global copy of globvar
+    global playerNumber  # Needed to modify global copy of globvar
     number = number + 1
     return number
 
 
 def getNumb():
-    global number
+    global playerNumber
     return number
 
 
