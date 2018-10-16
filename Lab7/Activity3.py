@@ -10,7 +10,7 @@
 # Assignment:	Lab Assignment 7
 # Date:		10 11 2018
 
-# Not needed - Just if I ever mess up the board
+# Not needed - Just if I ever mess up the board k
 def generate():
     chessboard = "RNBQKBNR PPPPPPPP ........ ........ ........ ........ pppppppp rnbqkbnr"
     split = chessboard.split(" ")
